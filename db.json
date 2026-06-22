@@ -1,0 +1,283 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "image": "http://localhost:5173/images/article1.webp",
+      "title": "آموزش کامل React.js برای مبتدیان",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "علی رضایی",
+      "category": "برنامه نویسی وب",
+      "readingTime": "5"
+    },
+    {
+      "id": "2",
+      "image": "http://localhost:5173/images/article2.webp",
+      "title": "۱۰ نکته مهم برای طراحی رابط کاربری حرفه‌ای",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "محمد حسینی",
+      "category": "رابط کاربری",
+      "readingTime": "11"
+    },
+    {
+      "id": "3",
+      "image": "http://localhost:5173/images/next.jpg",
+      "title": "مقایسه React و Vue؛ کدام بهتر است؟",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "کاظم موسوی",
+      "category": "طراحی وب",
+      "readingTime": "12"
+    },
+    {
+      "id": "4",
+      "image": "http://localhost:5173/images/git.png",
+      "title": "چگونه یک وب‌سایت ریسپانسیو طراحی کنیم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "حسین جعفری",
+      "category": "برنامه نویسی وب",
+      "readingTime": "16"
+    },
+    {
+      "id": "5",
+      "image": "http://localhost:5173/images/article3.webp",
+      "title": "کاربرد هوش مصنوعی در توسعه وب",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "رضا اکبری",
+      "category": "هوش مصنوعی",
+      "readingTime": "13"
+    },
+    {
+      "id": "6",
+      "image": "http://localhost:5173/images/article4.webp",
+      "title": "آشنایی با Tailwind CSS و مزایای آن",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "مهدی ناصری",
+      "category": "رابط کاربری",
+      "readingTime": "15"
+    },
+    {
+      "id": "7",
+      "image": "http://localhost:5173/images/article5.webp",
+      "title": "مدیریت State در React با Redux",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "جواد رضوی",
+      "category": "برنامه نویسی وب",
+      "readingTime": "20"
+    },
+    {
+      "id": "8",
+      "image": "http://localhost:5173/images/react.png",
+      "title": "بهترین روش‌های بهینه‌سازی عملکرد وب‌سایت",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "عباس موسوی",
+      "category": "رابط کاربری",
+      "readingTime": "6"
+    },
+    {
+      "id": "9",
+      "image": "http://localhost:5173/images/py.png",
+      "title": "مقدمه‌ای بر یادگیری ماشین برای برنامه‌نویسان",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "مرتضی کریمی",
+      "category": "هوش مصنوعی",
+      "readingTime": "8"
+    },
+    {
+      "id": "10",
+      "image": "http://localhost:5173/images/about.jpg",
+      "title": "ساخت فروشگاه اینترنتی با React و Node.js",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "احمد رضایی",
+      "category": "طراحی وب",
+      "readingTime": "10"
+    },
+    {
+      "id": "11",
+      "image": "http://localhost:5173/images/article7.webp",
+      "title": "اصول طراحی تجربه کاربری (UX)",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "سجاد حسینی",
+      "category": "برنامه نویسی وب",
+      "readingTime": "9"
+    },
+    {
+      "id": "12",
+      "image": "http://localhost:5173/images/article6.webp",
+      "title": "آموزش Git و GitHub برای توسعه‌دهندگان",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "علی اکبری",
+      "category": "رابط کاربری",
+      "readingTime": "14"
+    },
+    {
+      "id": "13",
+      "image": "http://localhost:5173/images/article8.webp",
+      "title": "معرفی API و نحوه استفاده از آن در پروژه‌ها",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "محمد تقی رضوی",
+      "category": "هوش مصنوعی",
+      "readingTime": "7"
+    },
+    {
+      "id": "14",
+      "image": "http://localhost:5173/images/python.png",
+      "title": "امنیت در برنامه‌های تحت وب؛ نکات ضروری",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
+      "writter": "کریم جعفری",
+      "category": "طراحی وب",
+      "readingTime": "18"
+    },
+    {
+      "id": "5237"
+    },
+    {
+      "id": "d25f"
+    },
+    {
+      "id": "f8ef"
+    },
+    {
+      "id": "f8c1"
+    },
+    {
+      "id": "8e97"
+    },
+    {
+      "id": "e5bf"
+    },
+    {
+      "id": "28c6"
+    },
+    {
+      "id": "8728"
+    },
+    {
+      "id": "1720"
+    },
+    {
+      "id": "3f8f"
+    },
+    {
+      "id": "d155",
+      "title": "fdgdsfjqkljdfj",
+      "desc": "djfkj",
+      "writter": "dfjkj",
+      "category": "dfjkl",
+      "image": "dfkjgkldjl",
+      "readingTime": "1"
+    },
+    {
+      "id": "1072"
+    },
+    {
+      "id": "0f95",
+      "title": "sdfsdkjl",
+      "desc": "sdkljlk",
+      "writter": "kdfjlkf",
+      "category": "kdjflksd",
+      "image": "sdjflkjlks",
+      "readingTime": "3453"
+    },
+    {
+      "id": "3ed4",
+      "title": "sdkfjlk",
+      "desc": "sjdlkjsdlk",
+      "writter": "sdfksdjk",
+      "category": "sdjfkls",
+      "image": "sdkfjsklj",
+      "readingTime": "4"
+    },
+    {
+      "id": "5634"
+    },
+    {
+      "id": "38b9"
+    },
+    {
+      "id": "8783",
+      "title": "dsfjlk",
+      "desc": "dslkjflk",
+      "writter": "sdjflk",
+      "category": "sdkfjdlsk",
+      "image": "fjdlks",
+      "readingTime": "4564"
+    },
+    {
+      "id": "5503"
+    },
+    {
+      "id": "41a8"
+    },
+    {
+      "id": "3b71",
+      "title": "sfsdlk",
+      "desc": "sdjkw",
+      "writter": "sdjkdl",
+      "category": "sdkj",
+      "image": "djslkds",
+      "readingTime": "4"
+    },
+    {
+      "id": "367c",
+      "title": "sdjfkslj",
+      "desc": "sdfsd",
+      "writter": "skfjsdlk",
+      "category": "sfjdskljl",
+      "image": "jfklsdjlk",
+      "readingTime": "34543"
+    },
+    {
+      "id": "5560",
+      "title": "",
+      "desc": "dslkfjsakl",
+      "writter": "sdjfklsj",
+      "category": "sdjkjsdl",
+      "image": "kjfsdkl",
+      "readingTime": "76676"
+    },
+    {
+      "id": "e183",
+      "title": "",
+      "desc": "",
+      "writter": "",
+      "category": "",
+      "image": "",
+      "readingTime": ""
+    },
+    {
+      "id": "c8f8",
+      "title": "",
+      "desc": "",
+      "writter": "",
+      "category": "",
+      "image": "",
+      "readingTime": ""
+    },
+    {
+      "id": "95ed",
+      "title": "",
+      "desc": "",
+      "writter": "",
+      "category": "",
+      "image": "",
+      "readingTime": ""
+    },
+    {
+      "id": "4bc8",
+      "title": "",
+      "desc": "",
+      "writter": "",
+      "category": "",
+      "image": "",
+      "readingTime": ""
+    },
+    {
+      "id": "7d78",
+      "title": "sdfas",
+      "desc": "jsdk",
+      "writter": "skdj",
+      "category": "djfskl",
+      "image": "sdjfk",
+      "readingTime": "23423"
+    }
+  ]
+}
