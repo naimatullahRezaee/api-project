@@ -30,10 +30,10 @@
     {
       "id": "4",
       "image": "http://localhost:5173/images/git.png",
-      "title": "چگونه یک وب‌سایت ریسپانسیو طراحی کنیم",
+      "title": "چگونه یک وب‌سایت ریسپانسیو طراحی کنیم ",
       "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
       "writter": "حسین جعفری",
-      "category": "برنامه نویسی وب",
+      "category": "برنامه نویسی گیت",
       "readingTime": "16"
     },
     {
@@ -127,157 +127,13 @@
       "readingTime": "18"
     },
     {
-      "id": "5237"
-    },
-    {
-      "id": "d25f"
-    },
-    {
-      "id": "f8ef"
-    },
-    {
-      "id": "f8c1"
-    },
-    {
-      "id": "8e97"
-    },
-    {
-      "id": "e5bf"
-    },
-    {
-      "id": "28c6"
-    },
-    {
-      "id": "8728"
-    },
-    {
-      "id": "1720"
-    },
-    {
-      "id": "3f8f"
-    },
-    {
-      "id": "d155",
-      "title": "fdgdsfjqkljdfj",
-      "desc": "djfkj",
-      "writter": "dfjkj",
-      "category": "dfjkl",
-      "image": "dfkjgkldjl",
-      "readingTime": "1"
-    },
-    {
-      "id": "1072"
-    },
-    {
-      "id": "0f95",
-      "title": "sdfsdkjl",
-      "desc": "sdkljlk",
-      "writter": "kdfjlkf",
-      "category": "kdjflksd",
-      "image": "sdjflkjlks",
-      "readingTime": "3453"
-    },
-    {
-      "id": "3ed4",
-      "title": "sdkfjlk",
-      "desc": "sjdlkjsdlk",
-      "writter": "sdfksdjk",
-      "category": "sdjfkls",
-      "image": "sdkfjsklj",
-      "readingTime": "4"
-    },
-    {
-      "id": "5634"
-    },
-    {
-      "id": "38b9"
-    },
-    {
-      "id": "8783",
-      "title": "dsfjlk",
-      "desc": "dslkjflk",
-      "writter": "sdjflk",
-      "category": "sdkfjdlsk",
-      "image": "fjdlks",
-      "readingTime": "4564"
-    },
-    {
-      "id": "5503"
-    },
-    {
-      "id": "41a8"
-    },
-    {
-      "id": "3b71",
-      "title": "sfsdlk",
-      "desc": "sdjkw",
-      "writter": "sdjkdl",
-      "category": "sdkj",
-      "image": "djslkds",
-      "readingTime": "4"
-    },
-    {
-      "id": "367c",
-      "title": "sdjfkslj",
-      "desc": "sdfsd",
-      "writter": "skfjsdlk",
-      "category": "sfjdskljl",
-      "image": "jfklsdjlk",
-      "readingTime": "34543"
-    },
-    {
-      "id": "5560",
-      "title": "",
-      "desc": "dslkfjsakl",
-      "writter": "sdjfklsj",
-      "category": "sdjkjsdl",
-      "image": "kjfsdkl",
-      "readingTime": "76676"
-    },
-    {
-      "id": "e183",
-      "title": "",
-      "desc": "",
-      "writter": "",
-      "category": "",
-      "image": "",
-      "readingTime": ""
-    },
-    {
-      "id": "c8f8",
-      "title": "",
-      "desc": "",
-      "writter": "",
-      "category": "",
-      "image": "",
-      "readingTime": ""
-    },
-    {
-      "id": "95ed",
-      "title": "",
-      "desc": "",
-      "writter": "",
-      "category": "",
-      "image": "",
-      "readingTime": ""
-    },
-    {
-      "id": "4bc8",
-      "title": "",
-      "desc": "",
-      "writter": "",
-      "category": "",
-      "image": "",
-      "readingTime": ""
-    },
-    {
-      "id": "7d78",
-      "title": "sdfas",
-      "desc": "jsdk",
-      "writter": "skdj",
-      "category": "djfskl",
-      "image": "sdjfk",
-      "readingTime": "23423"
+      "id": "d15d",
+      "title": "کمیوتر ",
+      "desc": "توضیح کوتاه ",
+      "writter": "احمد",
+      "category": "کمیوتر",
+      "image": "https://plus.unsplash.com/premium_photo-1687892170417-f9a11a402ef7?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "readingTime": "12"
     }
   ]
 }
